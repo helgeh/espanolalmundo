@@ -1,0 +1,22 @@
+{
+  "name": "espanolalmundo",
+  "version": "1.0.0",
+  "description": "webpage for espanolalmundo",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://helgeh@github.com/helgeh/espanolalmundo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helgeh/espanolalmundo/issues"
+  },
+  "homepage": "https://github.com/helgeh/espanolalmundo#readme",
+  "devDependencies": {
+    "grunt-ftp-push": "^1.1.1"
+  }
+}
